@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "kayak": "cli.js"
+  },
   "author": "Clément Grimault <clement.grimault@agencetexto.com> (http://agence-texto.fr/)",
   "license": "ISC"
 }
